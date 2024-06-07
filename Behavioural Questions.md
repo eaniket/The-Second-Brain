@@ -1,0 +1,7 @@
+1. Introduction: Hi I am Aniket, I have been working with JP Morgan and Chase for 3+ years as a full stack developer. My team currently works on landing page of chase and card lending-related products. I have designed and developed multiple projects most recent being the Benefit center for credit cards.
+2. Benefits-
+	1. S- The project was to accumulate and display all the possible benefits a person can have for all the credit cards he holds. 
+	2. T- While showing the benefits users have to be made aware of not in use, in use and redemeed benefits, and also classify the benefits into different categories such as travel, shopping, dining, protection etc. Furthermore, the application should support detailed expansion of any benefit.
+	3. A- Went ahead with the experience service architecture in the backend, where-in we built service catering to a particular experience by collecting data from product services. 
+	   Now, another challenge I foreseen while designing this service was the ordering in which  benefits will be shown on UI. To decouple the heavy computation from UI, I associated a rank number with each benefit, enabling easy sorting and displaying of the benefits. 
+3. Config externalisation and Horizontal Pod Auto-scaling 

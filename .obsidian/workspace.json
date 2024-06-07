@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "3728da936a314fbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "def0768912ef1451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c438df293b9a6d78",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Factory Pattern.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c8ecb23d658051f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ba1e51b30f79ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cdd39400ba07b29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e331c6e9260b16ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e4bcc9e215d67ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dfcd8b9e857f7fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "700d4c9c04cc7bf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9737a266590a61fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Factory Pattern.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4565716fb09270c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Factory Pattern.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd7abbb1b6ff8563",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b577ce4ee3295b67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Factory Pattern.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c438df293b9a6d78",
+  "lastOpenFiles": [
+    "DSA/DSA Topics.md",
+    "LLD/Factory Pattern.md",
+    "My-Second-Brain",
+    "Excalidraw/Factory Pattern.png",
+    "https:/github.com/eaniket/My-Second-Brain",
+    "https:/github.com/eaniket",
+    "https:/github.com",
+    "https:",
+    "Excalidraw/Drawing 2024-05-27 20.22.51.excalidraw.md",
+    "LLD/Low Level Design.md",
+    "Excalidraw.md",
+    "LLD/SOLID Principle.md",
+    "Java.md",
+    "JavaScript/JavaScript Interview Questions.md",
+    "LLD",
+    "JavaScript/JavaScript.md",
+    "React/React Interview Questions.md",
+    "React/React Deep Dive.md",
+    "DSA/Tries.md",
+    "DSA",
+    "JavaScript",
+    "React",
+    "Behavioural Questions.md",
+    "Excalidraw/Drawing 2024-03-02 19.01.09.excalidraw.md",
+    "Excalidraw"
+  ]
+}
